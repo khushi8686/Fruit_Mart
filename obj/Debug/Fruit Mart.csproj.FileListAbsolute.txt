@@ -1,0 +1,11 @@
+Y:\My codes\Fruit Mart\Fruit Mart\bin\Debug\Fruit Mart.exe.config
+Y:\My codes\Fruit Mart\Fruit Mart\bin\Debug\Fruit Mart.exe
+Y:\My codes\Fruit Mart\Fruit Mart\bin\Debug\Fruit Mart.pdb
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.csproj.AssemblyReference.cache
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.csproj.SuggestedBindingRedirects.cache
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit_Mart.Form1.resources
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit_Mart.Properties.Resources.resources
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.csproj.GenerateResource.cache
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.csproj.CoreCompileInputs.cache
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.exe
+Y:\My codes\Fruit Mart\Fruit Mart\obj\Debug\Fruit Mart.pdb
